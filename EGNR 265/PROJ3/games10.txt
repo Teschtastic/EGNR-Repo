@@ -1,0 +1,107 @@
+19,12,2017:4,Tom Jordan,3,4,2,5,0,1,headache
+10,12,2017:3,Parker Marks,1,4,1,3,0,2,inspired team
+9,1,2018:4,John Doe,2,4,1,5,1,3,focused on defense
+1,1,2018:3,Joe Akeem,2,3,3,6,1,6,3 turnovers allowed
+19,12,2017:4,Joe Akeem,3,4,5,9,0,3, 
+9,1,2018:4,Quentin Yeatts Jr.,1,4,2,6,1,6,7 turnovers allowed
+9,1,2018:4,Victor Jones,3,5,2,7,2,7,great first half
+8,12,2017:4,John Doe,0,1,1,8,0,2, 
+1,1,2018:3,James Leckart,0,0,0,1,0,0, 
+25,11,2017:1,Bill Dickerson,0,1,1,5,0,0,fouled out
+19,12,2017:4,DJ Hove,3,4,1,4,0,5,great passing
+17,12,2017:5,Parker Marks,0,2,1,5,1,5, 
+27,12,2017:3,Michael Williams,0,1,0,1,0,0,bruised ankle
+25,11,2017:1,Victor Jones,2,3,3,8,1,5,2 turnovers allowed
+27,12,2017:3,Bill Dickerson,3,4,1,6,2,5,great first half
+10,12,2017:3,David Wright,1,2,2,6,0,0,2 steals
+1,12,2017:3,DJ Hove,0,0,1,3,0,2,3 steals
+17,12,2017:5,David Wright,0,1,2,7,0,0,great passing
+9,1,2018:4,Richard Wellington,1,3,1,4,1,4, 
+27,12,2017:3,Richard Wellington,1,2,3,8,0,3, 
+19,12,2017:4,Michael Williams,0,1,1,3,0,0,8 blocked shots
+25,11,2017:1,Tom Jordan,2,3,1,4,0,2,bad fall
+25,11,2017:1,James Leckart,0,0,0,0,0,0,bruised ankle
+16,1,2018:4,Michael Williams,1,3,0,2,0,1,not feeling well
+27,12,2017:3,John Doe,1,3,0,2,0,2,not feeling well
+25,11,2017:1,Michael Williams,0,0,1,3,0,1, 
+17,12,2017:5,DJ Hove,0,0,1,3,0,2,great first half
+9,1,2018:4,David Wright,0,0,0,2,0,1,focused on defense
+16,1,2018:4,Victor Jones,4,6,1,5,1,6, 
+1,12,2017:3,Michael Williams,0,2,0,1,0,0,bad fall
+10,12,2017:3,Joe Akeem,4,5,1,3,1,5,ran out of steam
+1,12,2017:3,David Wright,0,0,1,4,0,0, 
+17,12,2017:5,Tom Jordan,3,4,1,4,0,3,focused on defense
+1,1,2018:3,Victor Jones,4,6,3,9,1,4,focused on defense
+1,12,2017:3,John Doe,2,4,1,5,0,1, 
+27,12,2017:3,DJ Hove,3,4,2,5,0,1,4 steals
+8,12,2017:4,Victor Jones,4,6,3,9,1,4, 
+10,12,2017:3,Michael Williams,0,1,2,8,0,1,2 steals
+1,1,2018:3,Tom Jordan,1,2,1,4,0,1,great passing
+1,12,2017:3,Bill Dickerson,3,4,0,3,2,5, 
+9,1,2018:4,Joe Akeem,6,7,2,5,1,6, 
+1,12,2017:3,Richard Wellington,3,6,3,9,1,5, 
+1,1,2018:3,David Wright,1,2,0,1,0,3,inspired team
+27,12,2017:3,James Leckart,0,1,0,0,0,0, 
+1,12,2017:3,Tom Jordan,0,1,2,6,0,2,fouled out
+17,12,2017:5,John Doe,1,2,1,8,0,1,focused on defense
+9,1,2018:4,James Leckart,0,1,0,1,0,0,fouled out
+25,11,2017:1,John Doe,1,2,1,8,0,2,3 steals
+27,12,2017:3,Tom Jordan,3,4,3,7,1,4,good defense
+16,1,2018:4,James Leckart,0,0,0,0,0,1,7 blocked shots
+10,12,2017:3,DJ Hove,1,2,0,1,0,2,bad fall
+25,11,2017:1,DJ Hove,0,1,1,4,0,2, 
+10,12,2017:3,John Doe,2,4,0,3,1,5, 
+19,12,2017:4,Quentin Yeatts Jr.,2,7,3,9,2,9, 
+27,12,2017:3,Joe Akeem,2,3,5,9,0,3, 
+8,12,2017:4,Tom Jordan,1,2,2,5,0,0, 
+9,1,2018:4,Tom Jordan,3,4,0,2,1,4,new shoes
+1,1,2018:3,Parker Marks,0,2,2,6,1,4, 
+25,11,2017:1,Joe Akeem,2,3,3,6,1,5,8 blocked shots
+19,12,2017:4,Richard Wellington,2,5,4,11,1,4, 
+19,12,2017:4,Parker Marks,0,2,1,4,1,4, 
+1,1,2018:3,Richard Wellington,2,5,3,8,1,5,great first half
+17,12,2017:5,James Leckart,0,1,0,0,0,0,great passing
+1,12,2017:3,Joe Akeem,1,2,5,10,0,2, 
+8,12,2017:4,Bill Dickerson,1,2,0,2,1,3, 
+27,12,2017:3,Quentin Yeatts Jr.,1,4,4,11,1,5,good defense
+25,11,2017:1,Quentin Yeatts Jr.,1,4,3,9,0,4, 
+16,1,2018:4,DJ Hove,1,2,0,1,0,3,focused on defense
+9,1,2018:4,Bill Dickerson,1,2,0,3,1,4,bruised ankle
+1,12,2017:3,James Leckart,0,0,1,4,0,0, 
+17,12,2017:5,Michael Williams,0,1,2,6,0,3, 
+8,12,2017:4,Richard Wellington,2,5,3,9,1,4, 
+10,12,2017:3,James Leckart,0,0,0,3,0,0, 
+16,1,2018:4,Quentin Yeatts Jr.,1,3,3,9,0,4,6 turnovers allowed
+8,12,2017:4,David Wright,1,2,1,4,0,2,ran out of steam
+16,1,2018:4,David Wright,0,1,0,0,0,0,bad fall
+17,12,2017:5,Joe Akeem,1,2,5,9,0,3,not feeling well
+1,1,2018:3,Michael Williams,1,3,0,0,0,3, 
+16,1,2018:4,John Doe,1,2,0,3,1,3,good defense
+25,11,2017:1,Richard Wellington,1,2,3,8,0,1, 
+16,1,2018:4,Tom Jordan,4,6,2,6,0,3, 
+16,1,2018:4,Joe Akeem,2,3,4,8,1,6, 
+10,12,2017:3,Victor Jones,2,3,3,8,1,4, 
+1,12,2017:3,Parker Marks,0,1,0,2,0,2,bruised ankle
+25,11,2017:1,David Wright,0,0,1,5,0,0,bruised ankle
+9,1,2018:4,DJ Hove,3,4,1,4,0,1, 
+19,12,2017:4,David Wright,0,0,0,0,0,1,bad fall
+8,12,2017:4,James Leckart,0,0,0,0,0,0, 
+9,1,2018:4,Michael Williams,0,0,1,5,0,3,5 blocked shots
+8,12,2017:4,Quentin Yeatts Jr.,2,7,4,11,1,7, 
+9,1,2018:4,Parker Marks,0,2,1,5,0,3,inspired team
+8,12,2017:4,DJ Hove,3,4,0,2,0,4,great passing
+16,1,2018:4,Parker Marks,0,0,1,4,0,3, 
+1,1,2018:3,Quentin Yeatts Jr.,2,7,4,10,1,8, 
+10,12,2017:3,Richard Wellington,3,6,2,5,1,5, 
+19,12,2017:4,Victor Jones,4,6,3,10,1,5,bruised ankle
+27,12,2017:3,Parker Marks,1,4,2,6,0,3, 
+8,12,2017:4,Joe Akeem,2,3,2,5,1,4, 
+17,12,2017:5,Quentin Yeatts Jr.,1,5,3,8,1,8,ran out of steam
+16,1,2018:4,Bill Dickerson,3,4,0,3,2,5,fouled out
+1,1,2018:3,DJ Hove,2,3,2,5,0,4,good defense
+27,12,2017:3,Victor Jones,5,8,2,6,2,8,5 turnovers allowed
+8,12,2017:4,Michael Williams,0,1,1,5,0,3,not feeling well
+10,12,2017:3,Tom Jordan,1,2,2,6,1,4,focused on defense
+19,12,2017:4,John Doe,1,3,1,8,1,5, 
+1,12,2017:3,Victor Jones,5,8,2,7,1,6,inspired team
+1,12,2017:3,Quentin Yeatts Jr.,2,8,2,6,1,7,good defense

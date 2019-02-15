@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>006EBBF6-B004-4EB2-8033-ACD3CAAFEE48</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>006EBBF6-B004-4EB2-8033-ACD3CAAFEE48.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>HW7 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HW7</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build HW7</string>
+			<key>timeStartedRecording</key>
+			<real>561857692.735677</real>
+			<key>timeStoppedRecording</key>
+			<real>561857693.35020602</real>
+			<key>title</key>
+			<string>Build HW7</string>
+			<key>uniqueIdentifier</key>
+			<string>006EBBF6-B004-4EB2-8033-ACD3CAAFEE48</string>
+		</dict>
+		<key>1F23803D-F322-43EB-96B6-859033DC0605</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1F23803D-F322-43EB-96B6-859033DC0605.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>HW7 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HW7</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build HW7</string>
+			<key>timeStartedRecording</key>
+			<real>561862473.21187401</real>
+			<key>timeStoppedRecording</key>
+			<real>561862473.72663999</real>
+			<key>title</key>
+			<string>Build HW7</string>
+			<key>uniqueIdentifier</key>
+			<string>1F23803D-F322-43EB-96B6-859033DC0605</string>
+		</dict>
+		<key>1F3536D1-6542-43C0-A242-527159DE04AD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1F3536D1-6542-43C0-A242-527159DE04AD.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>HW7 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HW7</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build HW7</string>
+			<key>timeStartedRecording</key>
+			<real>561856736.85074699</real>
+			<key>timeStoppedRecording</key>
+			<real>561856737.49810898</real>
+			<key>title</key>
+			<string>Build HW7</string>
+			<key>uniqueIdentifier</key>
+			<string>1F3536D1-6542-43C0-A242-527159DE04AD</string>
+		</dict>
+		<key>279D8619-7EF6-4BEC-95D7-EA926ED6EF6B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>279D8619-7EF6-4BEC-95D7-EA926ED6EF6B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>HW7 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HW7</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build HW7</string>
+			<key>timeStartedRecording</key>
+			<real>561865615.78741896</real>
+			<key>timeStoppedRecording</key>
+			<real>561865616.70192397</real>
+			<key>title</key>
+			<string>Build HW7</string>
+			<key>uniqueIdentifier</key>
+			<string>279D8619-7EF6-4BEC-95D7-EA926ED6EF6B</string>
+		</dict>
+		<key>38189EC4-9BBD-4160-A575-E39295229343</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>38189EC4-9BBD-4160-A575-E39295229343.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>HW7 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HW7</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build HW7</string>
+			<key>timeStartedRecording</key>
+			<real>561856588.58725095</real>
+			<key>timeStoppedRecording</key>
+			<real>561856589.00298297</real>
+			<key>title</key>
+			<string>Build HW7</string>
+			<key>uniqueIdentifier</key>
+			<string>38189EC4-9BBD-4160-A575-E39295229343</string>
+		</dict>
+		<key>3F7761E3-599A-48F4-BAE9-D18D1ED58DF9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3F7761E3-599A-48F4-BAE9-D18D1ED58DF9.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>HW7 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HW7</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build HW7</string>
+			<key>timeStartedRecording</key>
+			<real>561858213.50210798</real>
+			<key>timeStoppedRecording</key>
+			<real>561858213.90936399</real>
+			<key>title</key>
+			<string>Build HW7</string>
+			<key>uniqueIdentifier</key>
+			<string>3F7761E3-599A-48F4-BAE9-D18D1ED58DF9</string>
+		</dict>
+		<key>54D219C5-FCD3-47CB-879C-8D8242965602</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>54D219C5-FCD3-47CB-879C-8D8242965602.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>HW7 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HW7</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build HW7</string>
+			<key>timeStartedRecording</key>
+			<real>561857835.92995501</real>
+			<key>timeStoppedRecording</key>
+			<real>561857836.41953397</real>
+			<key>title</key>
+			<string>Build HW7</string>
+			<key>uniqueIdentifier</key>
+			<string>54D219C5-FCD3-47CB-879C-8D8242965602</string>
+		</dict>
+		<key>6B7F367A-E196-4D25-B657-5429DC616DE0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6B7F367A-E196-4D25-B657-5429DC616DE0.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>HW7 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HW7</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build HW7</string>
+			<key>timeStartedRecording</key>
+			<real>561862563.47955406</real>
+			<key>timeStoppedRecording</key>
+			<real>561862563.97037196</real>
+			<key>title</key>
+			<string>Build HW7</string>
+			<key>uniqueIdentifier</key>
+			<string>6B7F367A-E196-4D25-B657-5429DC616DE0</string>
+		</dict>
+		<key>6EC8F30D-E94E-48CF-99CC-5FEEC3D34CD7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6EC8F30D-E94E-48CF-99CC-5FEEC3D34CD7.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>HW7 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HW7</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build HW7</string>
+			<key>timeStartedRecording</key>
+			<real>561858346.92162204</real>
+			<key>timeStoppedRecording</key>
+			<real>561858347.32483804</real>
+			<key>title</key>
+			<string>Build HW7</string>
+			<key>uniqueIdentifier</key>
+			<string>6EC8F30D-E94E-48CF-99CC-5FEEC3D34CD7</string>
+		</dict>
+		<key>75E7AF90-B081-4283-ADDF-3D58FA2EECD0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>75E7AF90-B081-4283-ADDF-3D58FA2EECD0.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>HW7 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HW7</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build HW7</string>
+			<key>timeStartedRecording</key>
+			<real>561857831.40367997</real>
+			<key>timeStoppedRecording</key>
+			<real>561857831.67751002</real>
+			<key>title</key>
+			<string>Build HW7</string>
+			<key>uniqueIdentifier</key>
+			<string>75E7AF90-B081-4283-ADDF-3D58FA2EECD0</string>
+		</dict>
+		<key>7AAC314E-3FC9-4D6A-8CBF-1A530DD30EB0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7AAC314E-3FC9-4D6A-8CBF-1A530DD30EB0.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>HW7 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HW7</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build HW7</string>
+			<key>timeStartedRecording</key>
+			<real>561862425.784302</real>
+			<key>timeStoppedRecording</key>
+			<real>561862426.65019596</real>
+			<key>title</key>
+			<string>Build HW7</string>
+			<key>uniqueIdentifier</key>
+			<string>7AAC314E-3FC9-4D6A-8CBF-1A530DD30EB0</string>
+		</dict>
+		<key>8130DF40-473E-4823-B340-AD5C2A864C12</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8130DF40-473E-4823-B340-AD5C2A864C12.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>HW7 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HW7</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build HW7</string>
+			<key>timeStartedRecording</key>
+			<real>561863678.82179403</real>
+			<key>timeStoppedRecording</key>
+			<real>561863678.90245199</real>
+			<key>title</key>
+			<string>Build HW7</string>
+			<key>uniqueIdentifier</key>
+			<string>8130DF40-473E-4823-B340-AD5C2A864C12</string>
+		</dict>
+		<key>8F4322E2-6E49-450A-ACA6-EE89DBED868E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8F4322E2-6E49-450A-ACA6-EE89DBED868E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>HW7 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HW7</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build HW7</string>
+			<key>timeStartedRecording</key>
+			<real>561858279.15248501</real>
+			<key>timeStoppedRecording</key>
+			<real>561858279.53326201</real>
+			<key>title</key>
+			<string>Build HW7</string>
+			<key>uniqueIdentifier</key>
+			<string>8F4322E2-6E49-450A-ACA6-EE89DBED868E</string>
+		</dict>
+		<key>99760D0B-9CD0-4C7F-B2B3-9808280208F3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>99760D0B-9CD0-4C7F-B2B3-9808280208F3.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>HW7 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HW7</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build HW7</string>
+			<key>timeStartedRecording</key>
+			<real>561858334.96419597</real>
+			<key>timeStoppedRecording</key>
+			<real>561858335.39727104</real>
+			<key>title</key>
+			<string>Build HW7</string>
+			<key>uniqueIdentifier</key>
+			<string>99760D0B-9CD0-4C7F-B2B3-9808280208F3</string>
+		</dict>
+		<key>A54ED9E4-78AF-41FA-98E2-7754651F2D4E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A54ED9E4-78AF-41FA-98E2-7754651F2D4E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>HW7 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HW7</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build HW7</string>
+			<key>timeStartedRecording</key>
+			<real>561856851.85940897</real>
+			<key>timeStoppedRecording</key>
+			<real>561856851.95821404</real>
+			<key>title</key>
+			<string>Build HW7</string>
+			<key>uniqueIdentifier</key>
+			<string>A54ED9E4-78AF-41FA-98E2-7754651F2D4E</string>
+		</dict>
+		<key>BAF09F5E-910F-4A86-B08D-8357CA76DD40</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BAF09F5E-910F-4A86-B08D-8357CA76DD40.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>HW7 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HW7</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build HW7</string>
+			<key>timeStartedRecording</key>
+			<real>561859269.67696297</real>
+			<key>timeStoppedRecording</key>
+			<real>561859270.32068801</real>
+			<key>title</key>
+			<string>Build HW7</string>
+			<key>uniqueIdentifier</key>
+			<string>BAF09F5E-910F-4A86-B08D-8357CA76DD40</string>
+		</dict>
+		<key>C366BB89-952D-4B4B-A5CD-9C97E92D2511</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C366BB89-952D-4B4B-A5CD-9C97E92D2511.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>HW7 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HW7</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build HW7</string>
+			<key>timeStartedRecording</key>
+			<real>561861820.91836202</real>
+			<key>timeStoppedRecording</key>
+			<real>561861821.34122598</real>
+			<key>title</key>
+			<string>Build HW7</string>
+			<key>uniqueIdentifier</key>
+			<string>C366BB89-952D-4B4B-A5CD-9C97E92D2511</string>
+		</dict>
+		<key>C463A533-39CF-4A2E-B623-71AC38436909</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C463A533-39CF-4A2E-B623-71AC38436909.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>HW7 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HW7</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build HW7</string>
+			<key>timeStartedRecording</key>
+			<real>561856410.24933195</real>
+			<key>timeStoppedRecording</key>
+			<real>561856411.42974496</real>
+			<key>title</key>
+			<string>Build HW7</string>
+			<key>uniqueIdentifier</key>
+			<string>C463A533-39CF-4A2E-B623-71AC38436909</string>
+		</dict>
+		<key>C466DD06-D177-4BB3-8AC4-2F6ED4DD9DE2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C466DD06-D177-4BB3-8AC4-2F6ED4DD9DE2.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>HW7 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HW7</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build HW7</string>
+			<key>timeStartedRecording</key>
+			<real>561856322.07182705</real>
+			<key>timeStoppedRecording</key>
+			<real>561856324.24578202</real>
+			<key>title</key>
+			<string>Build HW7</string>
+			<key>uniqueIdentifier</key>
+			<string>C466DD06-D177-4BB3-8AC4-2F6ED4DD9DE2</string>
+		</dict>
+		<key>CA1BA5C6-EAC3-4478-B308-CBBCB386C681</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CA1BA5C6-EAC3-4478-B308-CBBCB386C681.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>HW7 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HW7</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build HW7</string>
+			<key>timeStartedRecording</key>
+			<real>561863139.17850006</real>
+			<key>timeStoppedRecording</key>
+			<real>561863139.72620702</real>
+			<key>title</key>
+			<string>Build HW7</string>
+			<key>uniqueIdentifier</key>
+			<string>CA1BA5C6-EAC3-4478-B308-CBBCB386C681</string>
+		</dict>
+		<key>CF783D5B-AD08-4460-AE55-97635536E463</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CF783D5B-AD08-4460-AE55-97635536E463.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>HW7 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HW7</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build HW7</string>
+			<key>timeStartedRecording</key>
+			<real>561857019.60351098</real>
+			<key>timeStoppedRecording</key>
+			<real>561857020.47135901</real>
+			<key>title</key>
+			<string>Build HW7</string>
+			<key>uniqueIdentifier</key>
+			<string>CF783D5B-AD08-4460-AE55-97635536E463</string>
+		</dict>
+		<key>D33420C8-CA34-43A1-8C7E-7AD314BDCAEB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D33420C8-CA34-43A1-8C7E-7AD314BDCAEB.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>HW7 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HW7</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build HW7</string>
+			<key>timeStartedRecording</key>
+			<real>561860871.50674498</real>
+			<key>timeStoppedRecording</key>
+			<real>561860871.63591504</real>
+			<key>title</key>
+			<string>Build HW7</string>
+			<key>uniqueIdentifier</key>
+			<string>D33420C8-CA34-43A1-8C7E-7AD314BDCAEB</string>
+		</dict>
+		<key>DB2730A2-FF5A-4A18-B76D-E2A512A74F98</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DB2730A2-FF5A-4A18-B76D-E2A512A74F98.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>HW7 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HW7</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build HW7</string>
+			<key>timeStartedRecording</key>
+			<real>561858255.70701802</real>
+			<key>timeStoppedRecording</key>
+			<real>561858256.08585203</real>
+			<key>title</key>
+			<string>Build HW7</string>
+			<key>uniqueIdentifier</key>
+			<string>DB2730A2-FF5A-4A18-B76D-E2A512A74F98</string>
+		</dict>
+		<key>DC3172F9-A9F4-4AD4-B3F8-B8FBE5490C08</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DC3172F9-A9F4-4AD4-B3F8-B8FBE5490C08.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>HW7 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HW7</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build HW7</string>
+			<key>timeStartedRecording</key>
+			<real>561857206.12001705</real>
+			<key>timeStoppedRecording</key>
+			<real>561857206.57551503</real>
+			<key>title</key>
+			<string>Build HW7</string>
+			<key>uniqueIdentifier</key>
+			<string>DC3172F9-A9F4-4AD4-B3F8-B8FBE5490C08</string>
+		</dict>
+		<key>F7759FCF-0C42-4224-ADC1-354AFDBF0C23</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F7759FCF-0C42-4224-ADC1-354AFDBF0C23.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>HW7 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HW7</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build HW7</string>
+			<key>timeStartedRecording</key>
+			<real>561858091.80917299</real>
+			<key>timeStoppedRecording</key>
+			<real>561858092.530128</real>
+			<key>title</key>
+			<string>Build HW7</string>
+			<key>uniqueIdentifier</key>
+			<string>F7759FCF-0C42-4224-ADC1-354AFDBF0C23</string>
+		</dict>
+		<key>F80F7D1A-69E9-4EB2-8C0A-3A9DF9B2E6A1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F80F7D1A-69E9-4EB2-8C0A-3A9DF9B2E6A1.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>HW7 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HW7</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build HW7</string>
+			<key>timeStartedRecording</key>
+			<real>561861537.22821903</real>
+			<key>timeStoppedRecording</key>
+			<real>561861537.86818802</real>
+			<key>title</key>
+			<string>Build HW7</string>
+			<key>uniqueIdentifier</key>
+			<string>F80F7D1A-69E9-4EB2-8C0A-3A9DF9B2E6A1</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
